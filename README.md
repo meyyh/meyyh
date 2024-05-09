@@ -1,16 +1,19 @@
-### Hi there 👋
+## Howdy partner & welcome
+#### My name is Cooper  
 
-<!--
-**meyyh/meyyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current projects 
+- wayland "video player" using native wayland protocols and ffmpeg
+- type out your clipboard by sending fake key preses to your keyboard
+  - this is useful for when accessing vms via a web browser where pasting does not work
+- whatever ***amazing*** idea I come up with next to sink my time into
 
-Here are some ideas to get you started:
+## Certifications
+[TestOut Ethical Hacker Pro](https://certification.testout.com/verifycert/6-1C6-V5X24A)  
+[TestOut Linux Pro](https://certification.testout.com/verifycert/6-1C6-NE9LK)  
+[TestOut Routing and Switching Pro](https://certification.testout.com/verifycert/6-1C6-VV659G)  
+[TestOut Security Pro](https://certification.testout.com/verifycert/6-1C6-WXPBN)  
+[TestOut Network Pro](https://certification.testout.com/verifycert/6-1C6-N9MKR)  
+[TestOut PC Pro](https://certification.testout.com/verifycert/6-1C6-WJ29V)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other
+Arch user btw  
